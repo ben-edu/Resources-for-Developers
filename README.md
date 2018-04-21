@@ -18,3 +18,6 @@ Repository with computer resources for developers
 
 ## Git
 * Laboratorio de aprendizaje de Github -> http://bit.ly/2HRESaA
+
+## Otras herramientas
+* Acortar Links -> https://bitly.com
